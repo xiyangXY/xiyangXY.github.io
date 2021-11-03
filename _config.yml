@@ -105,3 +105,9 @@ deploy:
   type: git
   repo: git@github.com:xiyangXY/xiyangXY.github.io.git
   branch: master
+
+# Search
+search:
+  path: search.json
+  field: post
+  content: true
