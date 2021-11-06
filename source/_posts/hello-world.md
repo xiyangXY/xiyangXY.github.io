@@ -2,7 +2,7 @@
 # 标题
 title: 使用Hexo搭建博客教程(window环境)
 # 置顶
-top: true
+top: top
 # 打赏
 reward: true
 # 分类

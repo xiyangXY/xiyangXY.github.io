@@ -2,7 +2,7 @@
 # 标题
 title: Linux服务器安装nodejs
 # 置顶
-top: true
+top: false
 # 打赏
 reward: true
 # 分类
@@ -27,11 +27,11 @@ Linux服务器安装nodejs
 上传包并解压
 =================
 
-我这里使用 Xftp 工具将包上传至服务器的/usr/local/src目录下
+我这里使用 `Xftp` 工具将包上传至服务器的/usr/local/src目录下
 
 ![nodejs](/images/liunx-node-upload.png)
 
-登录Xshell，访问/usr/local/src目录，执行解压命令
+登录 `Xshell`，访问/usr/local/src目录，执行解压命令
 
 ``` cmd
 cd /usr/local/src

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 15 Generated at: 2021-11-06 17:44:14 -->
+
+  <url>
+    <loc>https://xiyangxy.github.io/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/archives/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/categories/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/tags/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/2021/11/06/liunx-git/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/2021/11/06/liunx-node/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/2021/11/02/hello-world/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/categories/Linux/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/tags/Linux/</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/tags/git/</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/tags/node/</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/tags/Hexo/</loc>
+    <priority>0.79</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/tags/github/</loc>
+    <priority>0.79</priority>
+  </url>
+
+  <url>
+    <loc>https://xiyangxy.github.io/tags/npm/</loc>
+    <priority>0.79</priority>
+  </url>
+
+</urlset>
